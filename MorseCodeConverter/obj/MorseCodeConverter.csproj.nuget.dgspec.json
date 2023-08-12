@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fair\\Documents\\Hovedforløb\\H1\\C#\\MorseCodeConverter\\MorseCodeConverter.csproj": {}
+    "C:\\Users\\Fair\\MorseCodeConverter\\MorseCodeConverter\\MorseCodeConverter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fair\\Documents\\Hovedforløb\\H1\\C#\\MorseCodeConverter\\MorseCodeConverter.csproj": {
+    "C:\\Users\\Fair\\MorseCodeConverter\\MorseCodeConverter\\MorseCodeConverter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fair\\Documents\\Hovedforløb\\H1\\C#\\MorseCodeConverter\\MorseCodeConverter.csproj",
+        "projectUniqueName": "C:\\Users\\Fair\\MorseCodeConverter\\MorseCodeConverter\\MorseCodeConverter.csproj",
         "projectName": "MorseCodeConverter",
-        "projectPath": "C:\\Users\\Fair\\Documents\\Hovedforløb\\H1\\C#\\MorseCodeConverter\\MorseCodeConverter.csproj",
+        "projectPath": "C:\\Users\\Fair\\MorseCodeConverter\\MorseCodeConverter\\MorseCodeConverter.csproj",
         "packagesPath": "C:\\Users\\Fair\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fair\\Documents\\Hovedforløb\\H1\\C#\\MorseCodeConverter\\obj\\",
+        "outputPath": "C:\\Users\\Fair\\MorseCodeConverter\\MorseCodeConverter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
